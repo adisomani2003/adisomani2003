@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi, This is Aditya 👋
+####  Computer Science undergrad at BITS Pilani
 
 - 🔭 I’m currently working on Ball Tracking on a Tennis Court
 - 🌱 I’m currently exploring various ML and DL domains especially their applications in Sports and Medicine
