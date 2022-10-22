@@ -1,4 +1,8 @@
+
 # Hi, This is Aditya 👋
+#### A lifetime of training, for a few minutes of testing
+___
+
 ####  Computer Science undergrad at BITS Pilani
 
 - 🔭 I’m currently working on Ball Tracking on a Tennis Court
